@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'corsheaders',
     # my apps
     'task',
+    'museo',
 ]
 
 MIDDLEWARE = [
